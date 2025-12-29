@@ -28,5 +28,5 @@ Project Structure
 - **UI:** All HTML/CSS/JS goes in the `Web Pages` folder.
 
 ## 🔑 Database Setup
-- Import the `database.sql` file (found in /db folder).
+- Import the `schema.sql` file (found in /db folder).
 - Update your local credentials in `com.pfms.util.DBConnection`.
